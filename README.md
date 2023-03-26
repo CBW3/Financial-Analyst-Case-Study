@@ -14,3 +14,6 @@ the Pivot Charts upon request.
 
 Moreover, throughout this project, I utlized a variety of Advanced Excel techniques such as complicated Conditional Formatting, 
 Sparklines, changing Chart Elements, reporting connections among Pivot Tables, Pivot Charts, and Slicers, Custom Number Formatting, etc.
+
+I later added another Excel file to demonstrate my profiency calculating financial concepts such as Net Present Value, Internal Rate of Return, 
+EBITDA calculations, Cost of Capital, Discount Rates, Interest Rates, Economic Growth Rates, etc. 
